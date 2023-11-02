@@ -87,7 +87,6 @@
         // Lấy hai phần tử Cam và Chanh trong mảng fruits
         // Ta phải nhập 1,3 vì phần tử cuối cùng không được tính.
         let citrus = fruits.slice(1, 3);
-        ​
         // fruits chứa ['Chuối', 'Cam', 'Chanh', 'Táo', 'Xoài'];
         // citrus chứa ['Cam','Chanh'];
 
