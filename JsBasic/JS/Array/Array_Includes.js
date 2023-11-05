@@ -15,7 +15,7 @@
 
 
 // Sử dụng với chuỗi
-console.log('Trường hợp sử dụng với chuỗi');
+console.log('Trường hợp sử dụng với chuỗi'); 
 var title = 'Reponsive web design';
 // true
 console.log(title.includes('web', 2));
